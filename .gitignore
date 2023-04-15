@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+Console/Script 1.scpt
+Console/Script 2.scpt
+*.scpt
